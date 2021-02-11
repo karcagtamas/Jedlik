@@ -1,0 +1,6 @@
+F:\abs\Szorzó_program\bin\Debug\Szorzó_program.exe.config
+F:\abs\Szorzó_program\bin\Debug\Szorzó_program.exe
+F:\abs\Szorzó_program\bin\Debug\Szorzó_program.pdb
+F:\abs\Szorzó_program\obj\Debug\Szorzó_program.csprojResolveAssemblyReference.cache
+F:\abs\Szorzó_program\obj\Debug\Szorzó_program.exe
+F:\abs\Szorzó_program\obj\Debug\Szorzó_program.pdb
