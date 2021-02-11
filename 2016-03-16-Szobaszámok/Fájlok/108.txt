@@ -1,0 +1,3 @@
+Wellness szolgáltatás	1900
+Biliárd asztal használat	2000
+Éttermi fogyasztás	4300

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Snake.Csemege">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAACAAABggAAAaAA=</HashCode>
+      <FileName>Csemege.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.ExtraKeret">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extrakeret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Játék">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAABAAAAAQIAAAAAAAA=</HashCode>
+      <FileName>Játék.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Keret">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAIAAAAAAAAAQAAAAAgBiAAIAYAA=</HashCode>
+      <FileName>Keret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Kigyó">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAQEAkAAAEAIAAAEABAABAQQQAQCEBBIAAIAAAgU=</HashCode>
+      <FileName>Kigyó.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Kordináta">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Kordináta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Menü">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAgAAAAAAAAAACAAAAAQAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Menü.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Program">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Szuperkigyó">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Szuperkigyó.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,3 @@
+Éttermi fogyasztás	3000
+Sportpálya használat	2200
+Éttermi fogyasztás	2700

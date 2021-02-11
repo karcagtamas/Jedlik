@@ -1,0 +1,3 @@
+Éttermi fogyasztás	2800
+Fogyasztás a bárban	5300
+Fogyasztás a bárban	5100

@@ -1,0 +1,3 @@
+Sportpálya használat	4100
+Éttermi fogyasztás	2900
+Biliárd asztal használat	4500

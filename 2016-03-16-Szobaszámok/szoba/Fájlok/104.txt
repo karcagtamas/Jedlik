@@ -1,0 +1,4 @@
+Sportpálya használat	2600
+Fogyasztás a bárban	2400
+Fogyasztás a bárban	3000
+Minibár fogyasztás	4600

@@ -1,0 +1,5 @@
+Sportpálya használat	900
+Éttermi fogyasztás	1900
+Éttermi fogyasztás	3100
+Wellness szolgáltatás	600
+Biliárd asztal használat	3300

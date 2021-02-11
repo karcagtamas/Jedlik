@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C90EE3B-FC0D-4CA7-98B0-5F21598B4824}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>szoba</RootNamespace>
+    <AssemblyName>szoba</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Fájlok\102.txt" />
+    <Content Include="Fájlok\104.txt" />
+    <Content Include="Fájlok\105.txt" />
+    <Content Include="Fájlok\106.txt" />
+    <Content Include="Fájlok\107.txt" />
+    <Content Include="Fájlok\108.txt" />
+    <Content Include="Fájlok\109.txt" />
+    <Content Include="Fájlok\112.txt" />
+    <Content Include="Fájlok\114.txt" />
+    <Content Include="Fájlok\115.txt" />
+    <Content Include="Fájlok\116.txt" />
+    <Content Include="Fájlok\117.txt" />
+    <Content Include="Fájlok\118.txt" />
+    <Content Include="Fájlok\119.txt" />
+    <Content Include="Fájlok\201.txt" />
+    <Content Include="Fájlok\202.txt" />
+    <Content Include="Fájlok\203.txt" />
+    <Content Include="Fájlok\204.txt" />
+    <Content Include="Fájlok\206.txt" />
+    <Content Include="Fájlok\207.txt" />
+    <Content Include="Fájlok\208.txt" />
+    <Content Include="Fájlok\209.txt" />
+    <Content Include="Fájlok\211.txt" />
+    <Content Include="Fájlok\212.txt" />
+    <Content Include="Fájlok\213.txt" />
+    <Content Include="Fájlok\214.txt" />
+    <Content Include="Fájlok\215.txt" />
+    <Content Include="Fájlok\216.txt" />
+    <Content Include="Fájlok\217.txt" />
+    <Content Include="Fájlok\218.txt" />
+    <Content Include="Fájlok\219.txt" />
+    <Content Include="Fájlok\301.txt" />
+    <Content Include="Fájlok\302.txt" />
+    <Content Include="Fájlok\303.txt" />
+    <Content Include="Fájlok\304.txt" />
+    <Content Include="Fájlok\305.txt" />
+    <Content Include="Fájlok\307.txt" />
+    <Content Include="Fájlok\308.txt" />
+    <Content Include="Fájlok\309.txt" />
+    <Content Include="Fájlok\310.txt" />
+    <Content Include="Fájlok\311.txt" />
+    <Content Include="Fájlok\312.txt" />
+    <Content Include="Fájlok\313.txt" />
+    <Content Include="Fájlok\314.txt" />
+    <Content Include="Fájlok\315.txt" />
+    <Content Include="Fájlok\316.txt" />
+    <Content Include="Fájlok\318.txt" />
+    <Content Include="Fájlok\319.txt" />
+    <Content Include="Fájlok\401.txt" />
+    <Content Include="Fájlok\402.txt" />
+    <Content Include="Fájlok\403.txt" />
+    <Content Include="Fájlok\405.txt" />
+    <Content Include="Fájlok\406.txt" />
+    <Content Include="Fájlok\407.txt" />
+    <Content Include="Fájlok\408.txt" />
+    <Content Include="Fájlok\409.txt" />
+    <Content Include="Fájlok\410.txt" />
+    <Content Include="Fájlok\411.txt" />
+    <Content Include="Fájlok\412.txt" />
+    <Content Include="Fájlok\413.txt" />
+    <Content Include="Fájlok\414.txt" />
+    <Content Include="Fájlok\415.txt" />
+    <Content Include="Fájlok\416.txt" />
+    <Content Include="Fájlok\418.txt" />
+    <Content Include="Fájlok\501.txt" />
+    <Content Include="Fájlok\502.txt" />
+    <Content Include="Fájlok\503.txt" />
+    <Content Include="Fájlok\504.txt" />
+    <Content Include="Fájlok\505.txt" />
+    <Content Include="Fájlok\506.txt" />
+    <Content Include="Fájlok\507.txt" />
+    <Content Include="Fájlok\508.txt" />
+    <Content Include="Fájlok\509.txt" />
+    <Content Include="Fájlok\510.txt" />
+    <Content Include="Fájlok\511.txt" />
+    <Content Include="Fájlok\512.txt" />
+    <Content Include="Fájlok\515.txt" />
+    <Content Include="Fájlok\516.txt" />
+    <Content Include="Fájlok\517.txt" />
+    <Content Include="Fájlok\518.txt" />
+    <Content Include="Fájlok\519.txt" />
+    <Content Include="Fájlok\bejelentkezes.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

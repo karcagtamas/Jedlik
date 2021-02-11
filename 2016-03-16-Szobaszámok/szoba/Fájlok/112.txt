@@ -1,0 +1,3 @@
+Wellness szolgáltatás	5900
+Wellness szolgáltatás	5400
+Fogyasztás a bárban	5500

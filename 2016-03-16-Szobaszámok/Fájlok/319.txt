@@ -1,0 +1,3 @@
+Biliárd asztal használat	4100
+Fogyasztás a bárban	4200
+Wellness szolgáltatás	5100

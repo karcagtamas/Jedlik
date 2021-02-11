@@ -1,0 +1,3 @@
+Fogyasztás a bárban	2500
+Sportpálya használat	4100
+Éttermi fogyasztás	3200

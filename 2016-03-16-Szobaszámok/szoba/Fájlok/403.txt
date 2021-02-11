@@ -1,0 +1,3 @@
+Minibár fogyasztás	2700
+Minibár fogyasztás	400
+Fogyasztás a bárban	5100

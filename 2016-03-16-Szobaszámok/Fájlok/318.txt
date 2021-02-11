@@ -1,0 +1,4 @@
+Biliárd asztal használat	2800
+Éttermi fogyasztás	5200
+Fogyasztás a bárban	4600
+Wellness szolgáltatás	5000

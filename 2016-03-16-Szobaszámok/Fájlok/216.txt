@@ -1,0 +1,4 @@
+Fogyasztás a bárban	2400
+Fogyasztás a bárban	800
+Wellness szolgáltatás	4200
+Éttermi fogyasztás	3500

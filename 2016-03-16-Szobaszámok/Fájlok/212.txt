@@ -1,0 +1,4 @@
+Minibár fogyasztás	3000
+Biliárd asztal használat	5700
+Sportpálya használat	3300
+Fogyasztás a bárban	6000

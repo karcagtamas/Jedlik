@@ -1,0 +1,4 @@
+Biliárd asztal használat	2800
+Éttermi fogyasztás	4500
+Éttermi fogyasztás	2300
+Biliárd asztal használat	5500

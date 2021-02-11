@@ -1,0 +1,6 @@
+Wellness szolgáltatás	3600
+Éttermi fogyasztás	800
+Éttermi fogyasztás	1100
+Éttermi fogyasztás	600
+Wellness szolgáltatás	1800
+Wellness szolgáltatás	1400

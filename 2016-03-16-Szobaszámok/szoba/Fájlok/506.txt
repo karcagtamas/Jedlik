@@ -1,0 +1,5 @@
+Wellness szolgáltatás	3500
+Minibár fogyasztás	1800
+Minibár fogyasztás	3200
+Wellness szolgáltatás	1900
+Minibár fogyasztás	4500

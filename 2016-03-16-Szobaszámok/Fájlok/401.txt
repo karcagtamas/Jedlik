@@ -1,0 +1,3 @@
+Biliárd asztal használat	2900
+Éttermi fogyasztás	2100
+Minibár fogyasztás	4400

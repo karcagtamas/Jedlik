@@ -1,0 +1,5 @@
+Sportpálya használat	4600
+Sportpálya használat	1000
+Wellness szolgáltatás	2400
+Minibár fogyasztás	1800
+Biliárd asztal használat	4200

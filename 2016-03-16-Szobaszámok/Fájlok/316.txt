@@ -1,0 +1,4 @@
+Biliárd asztal használat	5900
+Wellness szolgáltatás	1800
+Minibár fogyasztás	5000
+Fogyasztás a bárban	3300

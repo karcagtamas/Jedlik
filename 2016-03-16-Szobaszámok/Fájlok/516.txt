@@ -1,0 +1,3 @@
+Éttermi fogyasztás	3800
+Wellness szolgáltatás	5800
+Sportpálya használat	3700

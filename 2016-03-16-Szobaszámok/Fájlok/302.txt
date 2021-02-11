@@ -1,0 +1,4 @@
+Minibár fogyasztás	1900
+Sportpálya használat	700
+Wellness szolgáltatás	4500
+Fogyasztás a bárban	5600

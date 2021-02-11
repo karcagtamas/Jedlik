@@ -1,0 +1,3 @@
+Éttermi fogyasztás	4300
+Éttermi fogyasztás	2000
+Minibár fogyasztás	800

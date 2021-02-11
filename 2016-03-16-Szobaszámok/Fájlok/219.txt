@@ -1,0 +1,4 @@
+Biliárd asztal használat	2800
+Biliárd asztal használat	5900
+Biliárd asztal használat	4900
+Sportpálya használat	1300
