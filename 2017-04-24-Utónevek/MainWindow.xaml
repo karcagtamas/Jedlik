@@ -1,0 +1,42 @@
+﻿<Window x:Class="Utónevek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Utónevek"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <ListBox Grid.Column="0" Name="Lastname">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Border Width="25" Height="25" Background="{Binding NemSzín}"/>
+                        <StackPanel>
+                            <Label Content="{Binding Név}" />
+                            <Label Content="{Binding Eredet}" />
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <StackPanel Grid.Column="1" DataContext="{Binding ElementName=Lastname, Path=SelectedItem}">
+            <Label>Név</Label>
+            <TextBox Text="{Binding Név}"/>
+            <Label>Névnap</Label>
+            <DatePicker SelectedDate="{Binding Névnap}"/>
+            <Label>Eredet</Label>
+            <TextBox Text="{Binding Eredet}"/>
+            <Label>Jelentés</Label>
+            <TextBox Text="{Binding Jelentés}"/>
+            <Label>Nem</Label>
+            <ComboBox Name="nNem" SelectedValue="{Binding Nem}"/>
+            <Button Content="Gomb" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

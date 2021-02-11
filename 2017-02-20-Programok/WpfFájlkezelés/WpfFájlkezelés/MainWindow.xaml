@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfFájlkezelés.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfFájlkezelés"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="453.825" Width="287.966">
+    <Grid>
+        <StackPanel>
+            <Label FontWeight="Bold">Fálj elérési útvonal</Label>
+            <TextBox Name="bevitel"></TextBox>
+            <Button Click="Button_Click">Betöltés</Button>
+            <Label FontWeight="Bold">Létezik</Label>
+            <Label Name="létezik"></Label>
+            <Label FontWeight="Bold">Fájl név</Label>
+            <Label Name="fájlnév"></Label>
+            <Label FontWeight="Bold">Könyvtár név</Label>
+            <Label Name="könyvtárnév"></Label>
+            <Label FontWeight="Bold">Hány sora van</Label>
+            <Label Name="hánysora"></Label>
+            <Label FontWeight="Bold">Első sora</Label>
+            <Label Name="elsősor"></Label>
+            <Label FontWeight="Bold">Utolsó sora</Label>
+            <Label Name="utolsósor"></Label>
+        </StackPanel>
+    </Grid>
+
+    
+</Window>

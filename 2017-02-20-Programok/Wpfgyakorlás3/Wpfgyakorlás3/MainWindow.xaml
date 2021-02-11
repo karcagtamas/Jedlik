@@ -1,0 +1,44 @@
+﻿<Window x:Class="Wpfgyakorlás3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfgyakorlás3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="430.37" Width="639.938">
+    <Grid ShowGridLines="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <ListBox Grid.Row="0" Grid.Column="0" Height="225" Name="ballistbox" SelectionMode="Multiple"></ListBox>
+        <ListBox Grid.Row="0" Grid.Column="2" Height="225" Name="jobblistbox" SelectionMode="Multiple"></ListBox>
+
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <Button Margin="10" Height="30" Width="30" Content="&gt;" Name="jobbravisz" Click="jobbravisz_Click"></Button>
+            <Button Margin="10" Height="30" Width="30" Content="&gt;&gt;" Name="jobbraviszmind" Click="jobbraviszmind_Click"></Button>
+            <Button Margin="10" Height="30" Width="30" Content="&lt;" Name="balravisz" Click="balravisz_Click"></Button>
+            <Button Margin="10" Height="30" Width="30" Content="&lt;&lt;" Name="balraviszmind"></Button>
+        </StackPanel>
+
+        <TextBox Grid.Row="1" Grid.Column="0" Height="25" Margin="10" Name="baltextbox"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="2" Height="25" Margin="10" Name="jobbtextbox"></TextBox>
+
+        <StackPanel Grid.Row="2">
+            <Button Margin="10" Height="30" Content="Hozzáad" Name="balhozzáad" Click="balhozzáad_Click"></Button>
+            <Button Margin="10" Height="30" Content="Töröl" Name="baltöröl" Click="baltöröl_Click"></Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Grid.Column="2">
+            <Button Margin="10" Height="30" Content="Hozzáad" Name="jobbhozzáad" Click="jobbhozzáad_Click"></Button>
+            <Button Margin="10" Height="30" Content="Töröl" Name="jobbtöröl" Click="jobbtöröl_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
