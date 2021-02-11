@@ -1,0 +1,147 @@
+Nemzet (NOB-kód)	Részvétel nyári olimpián	Arany nyári olimpián	Ezüst nyári olimpián	Bronz nyári olimpián	Részvétel téli olimpián	Arany téli olimpián	Ezüst téli olimpián	Bronz téli olimpián
+Afganisztán Afganisztán (AFG)	13	0	0	2	0	0	0	0
+Algéria Algéria (ALG)	12	5	2	8	0	0	0	0
+Amerikai Virgin-szigetek Amerikai Virgin-szigetek (ISV)	11	0	1	0	6	0	0	0
+Argentína Argentína (ARG)	23	18	24	28	17	0	0	0
+Ausztrálázsia Ausztrálázsia (ANZ)	2	3	4	5	0	0	0	0
+Ausztrália Ausztrália (AUS)	25	138	153	176	17	5	1	3
+Ausztria Ausztria (AUT)	26	18	33	35	21	55	70	76
+Azerbajdzsán Azerbajdzsán (AZE)	5	6	5	15	4	0	0	0
+Bahama-szigetek Bahama-szigetek (BAH)	15	5	2	5	0	0	0	0
+Bahrein Bahrein (BRN)	8	0	0	1	0	0	0	0
+Barbados Barbados (BAR)	11	0	0	1	0	0	0	0
+Belgium Belgium (BEL)	25	37	52	53	19	1	1	3
+Bermuda Bermuda (BER)	17	0	0	1	6	0	0	0
+Bohémia Bohémia (BOH)	3	0	1	3	0	0	0	0
+Botswana Botswana (BOT)	9	0	1	0	0	0	0	0
+Brazília Brazília (BRA)	21	23	30	55	6	0	0	0
+Brit Nyugat-India Brit Nyugat-India (BWI)	1	0	0	2	0	0	0	0
+Bulgária Bulgária (BUL)	19	51	85	78	18	1	2	3
+Ciprus Ciprus (CYP)	9	0	1	0	9	0	0	0
+Chile Chile (CHI)	22	2	7	4	15	0	0	0
+Elefántcsontpart Elefántcsontpart (CIV)	12	0	1	0	0	0	0	0
+Costa Rica Costa Rica (CRC)	14	1	1	2	6	0	0	0
+Csehország Csehország (CZE)	5	14	15	14	5	5	5	6
+Csehszlovákia Csehszlovákia (TCH)	16	49	49	45	16	2	8	15
+Dánia Dánia (DEN)	26	43	67	69	12	0	1	0
+Dél-afrikai Köztársaság Dél-afrikai Köztársaság (RSA)	18	23	26	27	6	0	0	0
+Dél-Korea Dél-Korea (KOR)	16	81	82	80	16	23	14	8
+Dominikai Köztársaság Dominikai Köztársaság (DOM)	13	3	2	1	0	0	0	0
+Dzsibuti Dzsibuti (DJI)	8	0	0	1	0	0	0	0
+Gabon Gabon (GAB)	9	0	1	0	0	0	0	0
+Egyesített Csapat Egyesített Csapat (EUN)	1	45	38	29	1	9	6	8
+Egyesült Államok Egyesült Államok (USA)	26	976	758	668	21	87	95	72
+Guatemala Guatemala (GUA)	13	0	1	0	1	0	0	0
+Egyesült Német Csapat Egyesült Német Csapat (EUA)	3	28	54	36	3	8	6	5
+Egyiptom Egyiptom (EGY)	21	7	9	10	1	0	0	0
+Holland Antillák Holland Antillák (AHO)	13	0	1	0	2	0	0	0
+Eritrea Eritrea (ERI)	4	0	0	1	0	0	0	0
+Észak-Korea Észak-Korea (PRK)	9	14	12	21	8	0	1	1
+Észtország Észtország (EST)	11	9	9	15	8	4	2	1
+Etiópia Etiópia (ETH)	12	21	7	17	2	0	0	0
+Fehéroroszország Fehéroroszország (BLR)	5	12	25	41	5	1	4	4
+Finnország Finnország (FIN)	24	101	84	117	21	41	59	56
+Franciaország Franciaország (FRA)	27	202	223	246	21	27	27	40
+Független résztvevõk Független résztvevõk (IOP)	1	0	1	2	0	0	0	0
+Fülöp-szigetek Fülöp-szigetek (PHI)	20	0	2	7	3	0	0	0
+Montenegró Montenegró (MNE)	2	0	1	0	1	0	0	0
+Ghána Ghána (GHA)	13	0	1	3	1	0	0	0
+Görögország Görögország (GRE)	27	30	42	38	17	0	0	0
+Namíbia Namíbia (NAM)	6	0	4	0	0	0	0	0
+Grúzia Grúzia (GEO)	5	6	5	14	5	0	0	0
+Paraguay Paraguay (PAR)	11	0	1	0	0	0	0	0
+Guyana Guyana (GUY)	16	0	0	1	0	0	0	0
+Haiti Haiti (HAI)	15	0	1	1	0	0	0	0
+Srí Lanka Srí Lanka (SRI)	16	0	2	0	0	0	0	0
+Hollandia Hollandia (NED)	25	77	85	104	19	29	31	26
+Hongkong Hongkong (HKG)	15	1	1	1	3	0	0	0
+Horvátország Horvátország (CRO)	6	6	7	10	6	4	5	1
+India India (IND)	23	9	6	11	8	0	0	0
+Indonézia Indonézia (INA)	14	6	10	11	0	0	0	0
+Irak Irak (IRQ)	13	0	0	1	0	0	0	0
+Irán Irán (IRI)	16	15	18	24	9	0	0	0
+Írország Írország (IRL)	20	9	8	11	5	0	0	0
+Izland Izland (ISL)	19	0	2	2	16	0	0	0
+Izrael Izrael (ISR)	15	1	1	5	5	0	0	0
+Jamaica Jamaica (JAM)	16	17	30	20	6	0	0	0
+Japán Japán (JPN)	21	130	126	142	19	9	13	15
+Jugoszlávia Jugoszlávia (YUG)	16	26	29	28	14	0	3	1
+Kamerun Kamerun (CMR)	13	3	1	1	1	0	0	0
+Kanada Kanada (CAN)	25	59	99	120	21	52	46	47
+Katar Katar (QAT)	8	0	0	4	0	0	0	0
+Kazahsztán Kazahsztán (KAZ)	5	16	17	19	5	1	3	2
+Kenya Kenya (KEN)	13	25	32	29	3	0	0	0
+Kína Kína (CHN)	9	201	144	128	9	9	18	17
+Kínai Köztársaság Kínai Köztársaság (ROC)	8	0	1	1	2	0	0	0
+Kirgizisztán Kirgizisztán (KGZ)	5	0	1	2	5	0	0	0
+Kolumbia Kolumbia (COL)	18	2	6	11	1	0	0	0
+Kuba Kuba (CUB)	19	72	67	69	0	0	0	0
+Kuvait Kuvait (KUW)	12	0	0	2	0	0	0	0
+Lengyelország Lengyelország (POL)	20	64	82	125	21	2	6	6
+Lettország Lettország (LAT)	10	3	11	5	9	0	2	1
+Libanon Libanon (LIB)	16	0	2	2	15	0	0	0
+Liechtenstein Liechtenstein (LIE)	16	0	0	0	17	2	2	5
+Litvánia Litvánia (LTU)	8	6	5	10	7	0	0	0
+Szenegál Szenegál (SEN)	13	0	1	0	5	0	0	0
+Macedónia Macedónia (MKD)	5	0	0	1	4	0	0	0
+Magyarország Magyarország (HUN)	25	167	144	165	21	0	2	4
+Malajzia Malajzia (MAS)	14	0	3	3	0	0	0	0
+Marokkó Marokkó (MAR)	13	6	5	11	5	0	0	0
+Mauritius Mauritius (MRI)	8	0	0	1	0	0	0	0
+Mexikó Mexikó (MEX)	22	13	21	28	7	0	0	0
+Moldova Moldova (MDA)	5	0	2	5	5	0	0	0
+Mongólia Mongólia (MGL)	12	2	9	13	12	0	0	0
+Szudán Szudán (SUD)	11	0	1	0	0	0	0	0
+Mozambik Mozambik (MOZ)	9	1	0	1	0	0	0	0
+Nagy-Britannia Nagy-Britannia (GBR)	27	236	272	272	21	9	3	10
+Tanzánia Tanzánia (TAN)	12	0	2	0	0	0	0	0
+NDK NDK (GDR)	5	153	129	127	6	39	36	35
+Németország Németország (GER)	15	174	182	217	10	70	72	48
+Nemzetközi Csapat Nemzetközi Csapat (ZZX)	3	8	5	4	0	0	0	0
+Niger Niger (NIG)	11	0	0	1	0	0	0	0
+Nigéria Nigéria (NGR)	15	3	8	12	0	0	0	0
+Norvégia Norvégia (NOR)	24	56	49	43	21	107	106	90
+NSZK NSZK (FRG)	5	56	67	81	6	11	15	13
+Olaszország Olaszország (ITA)	26	198	166	185	21	37	32	37
+Oroszország Oroszország (RUS)	8	133	127	147	5	36	29	26
+Örményország Örményország (ARM)	5	1	2	9	5	0	0	0
+Pakisztán Pakisztán (PAK)	16	3	3	4	1	0	0	0
+Panama Panama (PAN)	16	1	0	2	0	0	0	0
+Tonga Tonga (TGA)	8	0	1	0	0	0	0	0
+Vietnam Vietnam (VIE)	14	0	2	0	0	0	0	0
+Portugália Portugália (POR)	23	4	8	11	6	0	0	0
+Puerto Rico Puerto Rico (PUR)	17	0	2	6	6	0	0	0
+Románia Románia (ROU)	20	88	94	119	19	0	0	1
+Spanyolország Spanyolország (ESP)	22	37	59	34	18	1	0	1
+Burundi Burundi (BDI)	5	1	0	0	0	0	0	0
+Suriname Suriname (SUR)	12	1	0	1	0	0	0	0
+Svájc Svájc (SUI)	27	47	73	65	21	44	37	46
+Svédország Svédország (SWE)	26	143	164	176	21	48	33	48
+Szaúd-Arábia Szaúd-Arábia (KSA)	10	0	1	2	0	0	0	0
+Ecuador Ecuador (ECU)	13	1	1	0	0	0	0	0
+Szerbia Szerbia (SRB)	3	1	2	4	1	0	0	0
+Szerbia és Montenegró Szerbia és Montenegró (SCG)	3	2	4	3	3	0	0	0
+Szingapúr Szingapúr (SIN)	15	0	2	2	0	0	0	0
+Szíria Szíria (SYR)	12	1	1	1	0	0	0	0
+Szlovákia Szlovákia (SVK)	5	7	9	8	5	1	2	1
+Szlovénia Szlovénia (SLO)	6	4	6	9	6	0	2	5
+Szovjetunió Szovjetunió (URS)	9	395	319	296	9	78	57	59
+Egyesült Arab Emírségek Egyesült Arab Emírségek (UAE)	8	1	0	0	0	0	0	0
+Tádzsikisztán Tádzsikisztán (TJK)	5	0	1	2	3	0	0	0
+Tajvan Tajvan (TPE)	8	2	6	11	8	0	0	0
+Grenada Grenada (GRN)	8	1	0	0	0	0	0	0
+Thaiföld Thaiföld (THA)	15	7	6	11	2	0	0	0
+Togo Togo (TOG)	9	0	0	1	0	0	0	0
+Luxemburg Luxemburg (LUX)[1]	22	1	1	0	7	0	2	0
+Törökország Törökország (TUR)	21	39	25	23	15	0	0	0
+Trinidad és Tobago Trinidad és Tobago (TRI)	16	2	5	11	3	0	0	0
+Tunézia Tunézia (TUN)	13	3	3	4	0	0	0	0
+Uganda Uganda (UGA)	14	2	3	2	0	0	0	0
+Új-Zéland Új-Zéland (NZL)	22	42	18	39	14	0	1	0
+Ukrajna Ukrajna (UKR)	5	34	27	55	5	1	1	3
+Uruguay Uruguay (URU)	20	2	2	6	1	0	0	0
+Üzbegisztán Üzbegisztán (UZB)	5	5	5	10	5	1	0	0
+Venezuela Venezuela (VEN)	17	2	2	8	3	0	0	0
+Peru Peru (PER)[2]	17	1	3	0	1	0	0	0
+Zambia Zambia (ZAM)	12	0	1	1	0	0	0	0
+Zimbabwe Zimbabwe (ZIM)	12	3	4	1	0	0	0	0

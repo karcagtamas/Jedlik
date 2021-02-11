@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Űrlap</title>
+    <script src="JavaScript.js"></script>
+    <link href="Űrlap.css" rel="stylesheet" />
+</head>
+<body>
+    Adja meg a táblázat adatait: <br/>
+    Sorok száma : <input type="number" name="row" value="1" onchange="ellsz()" id="row"/> <br/>
+    Oszlopok száma :<input type="number" name="col" value="1" onchange="ellsz()" id="col"/> <br />
+    <input type="submit" name="gen" value="Gen" onclick="gen()"/>
+    <input type="number" name="tól" id ="start" value="0" onchange="elld()" />
+    <input type="number" name="ig" id ="end" value="1" onchange="elld()"/> <span id="notf"></span>
+    <table id="táblázat">
+    </table>
+</body>
+</html>

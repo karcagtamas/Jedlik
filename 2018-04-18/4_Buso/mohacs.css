@@ -1,0 +1,45 @@
+body{
+  background-size: 70px 70px;
+  background-repeat: repeat-y;
+  background-position: right top;
+  padding: 15px 95px 15px 15px;
+}
+
+#cimkep{
+  float:left;  
+}
+
+#erdekesseg{
+  width:450px;
+  float:right;
+  margin: 0px 0px 20px 15px;
+  background-color: #ffffcc;
+  -ms-transform: rotate(5deg);
+  -webkit-transform: rotate(5deg);
+  transform: rotate(5deg)
+}
+
+h1{
+  font-size:30pt;
+  color:#720000;
+
+}
+
+.jobbra{
+  text-align: right;
+  float:right;
+  border-style:dashed;
+  margin:15px;
+}
+
+
+.keret{
+  font-size: 90%;
+  padding: 7px;
+  font-weight: normal;
+  color:#720000;
+}
+
+li{
+  font-weight:bold;
+}

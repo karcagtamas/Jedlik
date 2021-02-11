@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="gy.css" rel="stylesheet">
+	</head>
+	<script>
+		function összead()
+		{
+			var a = Number(document.getElementById("a1").value);
+			var b = Number(document.getElementById("b1").value);
+			document.getElementById("eredmény1").value = a + b;
+		}
+		function művelet()
+		{
+			var a = Number(document.getElementById("a2").value);
+			var b = Number(document.getElementById("b2").value);
+			if (document.getElementById("+").checked)
+			{
+				document.getElementById("eredmény2").value = a + b;
+			}
+			else
+			{
+				document.getElementById("eredmény2").value = a - b;
+			}
+		}
+		function listművelet()
+		{
+			var a = Number(document.getElementById("a3").value);
+			var b = Number(document.getElementById("b3").value);
+			if (document.getElementById("lista").value == "+")
+			{
+				document.getElementById("eredmény3").value = a + b;
+			}
+			else if (document.getElementById("lista").value == "-")
+			{
+				document.getElementById("eredmény3").value = a - b;
+			}
+			else if (document.getElementById("lista").value == "/")
+			{
+				document.getElementById("eredmény3").value = a / b;
+			}
+			else if (document.getElementById("lista").value == "*")
+			{
+				document.getElementById("eredmény3").value = a * b;
+			}
+		}
+		function g()
+		{
+			document.getElementById("gszöveg1").innerHTML = "Hello There";
+		}
+		function g2()
+		{
+			document.getElementById("gszöveg2").innerHTML = 1;
+			for(let i = 2; i <= 10; i++)
+			{
+			document.getElementById("gszöveg2").innerHTML += " ";
+				document.getElementById("gszöveg2").innerHTML += i;
+			}
+			
+		}
+		function g3()
+		{
+			var string;
+			string = "<table border='2'><tr>"
+			for(let i = 1; i <= 10; i++)
+			{
+				string += "<td>"+i+"</td>";
+			}
+			string += "</tr></table>";
+			document.getElementById("gszöveg3").innerHTML = string;
+		}
+		function g4()
+		{
+			var string;
+			string = "<table border='2'>"
+			for(let i = 1; i <= 10; i++)
+			{
+				string += "<tr><td>"+i+"</td></tr>";
+			}
+			string += "</table>";
+			document.getElementById("gszöveg4").innerHTML = string;
+		}
+		function g5()
+		{
+			var string;
+			string = "<table border='2'>"
+			for(let i = 1; i <= 10; i++)
+			{
+				string += "<tr>"
+				for (let j = 1; j <= 10; j++)
+				{
+					string += "<td>"+i*j+"</td>";
+				}
+				string += "</tr>"
+			}
+			string += "</table>";
+			document.getElementById("gszöveg5").innerHTML = string;
+		}
+		function g6()
+		{
+			var string;
+			string = "<table id='table'>"
+			string += "<tr>"
+			for(let i = 0; i <= 10; i++)
+			{
+				if (i == 0)
+				{
+					string += "<th> </th>";
+				}
+				else
+				{
+					string += "<th>"+ i + "</th>";
+				}
+			}
+			string += "</tr>"
+			for(let i = 1; i <= 10; i++)
+			{
+				string += "<tr>"
+				for (let j = 0; j <= 10; j++)
+				{
+					if (j == 0)
+					{
+						string += "<th>"+i+"</th>";
+					}
+					else
+					{
+					string += "<td>"+i*j+"</td>";
+					}
+				}
+				string += "</tr>"
+			}
+			string += "</table>";
+			document.getElementById("gszöveg6").innerHTML = string;
+		}
+		function osztók()
+		{
+			var string = "";
+			var a = Number(document.getElementById("szám").value);
+			for(let i = 1; i <= a / 2; i++)
+			{
+				if (a % i == 0)
+				{
+					string += "<span>"+i+"</span>,";
+				}
+			}
+			string = string.slice(0, string.length - 1);
+			document.getElementById("osztóksz").innerHTML = string;
+		}
+		function másodfokú()
+		{
+			var a = Number(document.getElementById("ax").value);
+			var b = Number(document.getElementById("bx").value);
+			var c = Number(document.getElementById("cx").value);
+			
+			var D = (b * b) - (4 * a * c);
+			
+			if (D > 0)
+			{
+				var x1 = ((-1 * b) + Math.sqrt(D)) / (2 * a);
+				var x2 = ((-1 * b) - Math.sqrt(D)) / (2 * a);
+				document.getElementById("x1").innerHTML = "x1 = " + x1;
+				document.getElementById("x2").innerHTML = "x2 = " + x2;
+			} else if (D == 0)
+			{
+				var x = (-1 * b) / (2 * a);
+				document.getElementById("x1").innerHTML = "x1 = " + x;
+				document.getElementById("x2").innerHTML = "";
+			}else
+			{
+				document.getElementById("x1").innerHTML = "Nincs megoldás";
+				document.getElementById("x2").innerHTML = "";
+			}
+		}
+		function sakk()
+		{
+			var string = "<table>";
+			for(let i = 1; i <= 8; i++)
+			{
+				string += "<tr>";
+				for(let j = 1; j <= 8; j++)
+				{
+					string += "<td> </td>";
+				}
+				string += "</tr>";
+			}
+			string += "</table>";
+			document.getElementById("sakk").innerHTML = string;
+		}
+		function hozzáad()
+		{
+			var s = document.getElementById("namet").value;
+			document.getElementById("listaname").innerHTML += "<option>"+s+"</option>";
+		}
+		function felsorolás()
+		{
+			var a = "";
+			var s = [];
+			for(let i = 0; i < document.getElementById("listaname").options.length; i++)
+			{
+				var opt = document.getElementById("listaname").options[i];
+				if (opt.selected)
+				{
+					s.push(opt.value);
+				}
+			}
+			for(let i = 0; i < s.length; i++)
+			{
+				a += s[i] + ",";
+			}
+			a = a.slice(0, a.length - 1);
+			document.getElementById("names").innerHTML = a;
+		}
+	</script>
+	<body>
+		<h1>Számolás</h1>
+		<input type="number" id="a1"> +
+		<input type="number" id="b1"> =
+		<input type="number" id="eredmény1">
+		<input type="button" value="Számol" onclick="összead();">
+		<br><br>
+		<hr>
+		<h1>Számolás</h1>
+		<input type="number" id="a2">
+		<input type="radio" name="+/-" id="+" checked>+
+		<input type="radio" name="+/-" >-
+		<input type="number" id="b2"> =
+		<input type="number" id="eredmény2">
+		<input type="button" value="Számol" onclick="művelet();">
+		<br><br>
+		<hr>
+		<h1>Számolás</h1>
+		<input type="number" id="a3">
+		<select id="lista">
+			<option value="+">+</option>
+			<option value="-">-</option>
+			<option value="/">/</option>
+			<option value="*">*</option>
+		</select>
+		<input type="number" id="b3"> =
+		<input type="number" id="eredmény3">
+		<input type="button" value="Számol" onclick="listművelet();">
+		<br><br>
+		<hr>
+		<input type="button" value="Generálás" onclick="g();">
+		<span id="gszöveg1">Eredeti</span>
+		<br><br>
+		<hr>
+		<input type="button" value="Generálás" onclick="g2();">
+		<span id="gszöveg2">Eredeti</span>
+		<br><br>
+		<hr>
+		<input type="button" value="Generálás" onclick="g3();">
+		<div id="gszöveg3">Eredeti</div>
+			<br><br>
+		<hr>
+		<input type="button" value="Generálás" onclick="g4();">
+		<div id="gszöveg4">Eredeti</div>
+		<br><br>
+		<hr>
+		<input type="button" value="Generálás" onclick="g3();">
+		<div id="gszöveg3">Eredeti</div>
+		<br><br>
+		<hr>
+		<input type="button" value="Generálás" onclick="g5();">
+		<div id="gszöveg5">Eredeti</div>
+		<br><br>
+		<hr>
+		<input type="button" value="Generálás" onclick="g6();">
+		<div id="gszöveg6">Eredeti</div>
+		<br><br>
+		<hr>
+		<input type="number" id="szám">
+		<input type="button" value="Osztók" onclick="osztók();">
+		<div id="osztóksz"></div>
+		<br><br>
+		<hr>
+		<input type="number" id="ax"> * x <sup>2</sup> + 
+		<input type="number" id="bx"> * x + 
+		<input type="number" id="cx"> = 0 
+		<input type="button" value="Megoldás" onclick="másodfokú();"> <br>
+		<span id="x1"></span> <br>
+		<span id="x2"></span>
+		<br><br>
+		<hr>
+		<input type="button" value="Generálás" onclick="sakk();">
+		<div id="sakk"></div>
+		<br><br>
+		<hr>
+		Név: <br>
+		<input type="text" id="namet">
+		<input type="button" value="Hozzáadás" onclick="hozzáad();"> <br>
+		Szereplők: <br>
+		<select multiple="multiple" id="listaname"></select> <br>
+		<input type="button" value="Felsorolás" onclick="felsorolás();"> <br>
+		<span id="names"></span>
+		<br><br>
+		<hr>
+		<span id="lotto"></span>
+	</body>
+	<script>
+		let lista = [];
+		var x = 0;
+		var s = "";
+		for (let i = 1; i <= 5; i++)
+		{
+			do{
+				x = Math.randomBetween(1,90);
+			}while(lista.contains(x));
+			lista.push(x);
+		}
+		for(let i = 1; i <= 90; i++)
+		{
+			if (lista.contains(i))
+			{
+				s += i + " ";
+			}
+		}
+		document.getElementById("lotto").innerHTML = s;
+	</script>
+</html>
